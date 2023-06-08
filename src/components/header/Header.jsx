@@ -1,6 +1,6 @@
 import React from "react";
 import CTA from "./CTA";
-import ME from "../../Assets/meg.jpg";
+import ME from "../../assets/meg.jpg";
 import HeaderSocials from "./HeaderSocials";
 
 function Header() {
