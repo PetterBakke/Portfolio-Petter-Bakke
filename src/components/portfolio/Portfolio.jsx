@@ -1,9 +1,9 @@
 import React from "react";
-import TODO from "../../Assets/fullpage-todo-app.png";
-import CAL from "../../Assets/calculator.png";
-import RWE from "../../Assets/react-weather.png";
-import HAN from "../../Assets/hangman-game.png";
-import BIT from "../../Assets/bits-and-bots.png";
+import TODO from "../../assets/fullpage-todo-app.png";
+import CAL from "../../assets/calculator.png";
+import RWE from "../../assets/react-weather.png";
+import HAN from "../../assets/hangman-game.png";
+import BIT from "../../assets/bits-and-bots.png";
 
 function Portfolio() {
   return (
