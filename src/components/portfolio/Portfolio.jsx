@@ -3,7 +3,7 @@ import TODO from "../../assets/fullpage-todo-app.png";
 import CAL from "../../assets/calculator.png";
 import RWE from "../../assets/react-weather.png";
 import HAN from "../../assets/hangman-game.png";
-import BIT from "../../assets/bits.png";
+import BIT from "../../assets/bitsandbots.png";
 
 function Portfolio() {
   return (
