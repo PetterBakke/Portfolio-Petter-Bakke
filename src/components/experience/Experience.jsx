@@ -50,7 +50,7 @@ function Experience() {
               <BsPatchCheckFill className="experience-details-icon" />
               <div>
                 <h4>TypeScript</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience-details">
@@ -63,8 +63,48 @@ function Experience() {
             <article className="experience-details">
               <BsPatchCheckFill className="experience-details-icon" />
               <div>
+                <h4>Tailwind CSS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-details-icon" />
+              <div>
                 <h4>Next.JS</h4>
                 <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+          </div>
+        </div>
+        <div className="experience-frontend">
+          <h3>Backend Development</h3>
+          <div className="experience-content">
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-details-icon" />
+              <div>
+                <h4>C#</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-details-icon" />
+              <div>
+                <h4>postgreSQL</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-details-icon" />
+              <div>
+                <h4>Python</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-details-icon" />
+              <div>
+                <h4>Java</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
           </div>
